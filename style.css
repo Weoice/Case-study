@@ -9,3 +9,25 @@
     text-align: center;
 
   }
+
+  body {
+
+    background-image: linear-gradient(to bottom right, red, yellow);
+    
+
+  }
+
+  #mobile {
+
+  border-radius: 90px;
+ color: yellow;
+
+  }
+
+  #google {
+
+  border-radius: 90px;
+  color: blue;
+  font-family: 'Bebas Neue', sans-serif;
+
+  }
